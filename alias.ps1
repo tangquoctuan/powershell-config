@@ -1,3 +1,6 @@
+#reload profile
+Function rlp{ $profile }
+
 #open $profile with nodepad
 Function op{ notepad $PROFILE }
 
